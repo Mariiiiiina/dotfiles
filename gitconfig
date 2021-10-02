@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marina_mgnl@outlook.fr
+	name = Marina Magnoli
